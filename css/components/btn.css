@@ -1,0 +1,11 @@
+.btn-cta {
+  background-color: #6AD58B;
+  border-radius: 20px;
+  font-family: Open-sans, sans-serif;
+  color: #fff;
+  padding: 15px 30px;
+}
+
+.btn-cta:hover {
+  background-color: #3ac062;
+}
